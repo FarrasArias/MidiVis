@@ -1,0 +1,2 @@
+# MidiVis
+MIDI Visualization tool
